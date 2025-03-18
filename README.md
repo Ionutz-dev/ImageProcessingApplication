@@ -1,4 +1,4 @@
-﻿# ImageProcessingApplication
+﻿# Image Processing Application
 
 ## Overview
 
