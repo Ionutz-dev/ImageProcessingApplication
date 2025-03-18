@@ -1,0 +1,28 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.ipch
+*.obj
+*.exe
+*.log
+*.tlog
+*.pch
+*.pdb
+
+# Ignore build output directories
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Ignore backup files
+*.bak
+*.tmp
+*.~*
+
+# Ignore images & generated files (optional)
+*.ascii.pgm
